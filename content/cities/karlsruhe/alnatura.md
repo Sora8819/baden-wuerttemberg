@@ -1,5 +1,5 @@
 ---
 title: "Alnatura"
 url: /karlsruhe/alnatura/
-shop: Supermarkt
+shop: Bioladen
 ---

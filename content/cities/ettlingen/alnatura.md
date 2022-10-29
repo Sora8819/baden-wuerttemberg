@@ -1,5 +1,5 @@
 ---
 title: "Alnatura"
 url: /ettlingen/alnatura/
-shop: Supermarkt
+shop: Bioladen
 ---

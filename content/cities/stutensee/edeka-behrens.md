@@ -1,5 +1,5 @@
 ---
-title: "Edeka Behrens"
+title: "EDEKA Behrens"
 url: /stutensee/edeka-behrens/
 shop: Supermarkt
 ---
