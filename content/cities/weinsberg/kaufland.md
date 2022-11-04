@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
 url: /weinsberg/kaufland/
-shop: Supermarkt
+shop: Einkaufszentrum
 ---
