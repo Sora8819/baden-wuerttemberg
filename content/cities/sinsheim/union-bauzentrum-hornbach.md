@@ -1,5 +1,5 @@
 ---
 title: "Union Bauzentrum Hornbach"
 url: /sinsheim/union-bauzentrum-hornbach/
-shop: Baustoffe
+shop: Baumarkt
 ---

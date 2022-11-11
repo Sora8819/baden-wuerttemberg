@@ -1,11 +1,11 @@
-id: 10056728398
-type: node
-latitude: 49.01021
-longitude: 8.39482
-postcode: ""
+id: 140034371
+type: way
+latitude: 49.03639
+longitude: 8.3923
+postcode: "76149"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 
+street: "Lorbeerweg"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

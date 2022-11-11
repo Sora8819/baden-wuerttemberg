@@ -1,11 +1,11 @@
-id: 203529767
-type: way
-latitude: 47.9837
-longitude: 7.80349
-postcode: "79111"
+id: 10156677554
+type: node
+latitude: 47.9804
+longitude: 7.9043
+postcode: "79117"
 city: Freiburg im Breisgau
-street: "Basler Landstraße"
-housenumber: 30a
+street: "Kappler Straße"
+housenumber: 58
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH,Su off"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "https://www.edeka-rees.de/"
