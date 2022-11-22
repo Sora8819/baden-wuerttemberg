@@ -1,6 +1,6 @@
 ---
 title: Görwihl
 url: /goerwihl/
-latitude: 47.659
-longitude: 8.023
+latitude: 47.64
+longitude: 8.074
 ---
