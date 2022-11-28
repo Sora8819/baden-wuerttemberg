@@ -1,5 +1,5 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /filderstadt/rewe-getraenkemarkt/
 shop: Getränke
 ---
