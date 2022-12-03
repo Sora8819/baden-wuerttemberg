@@ -1,6 +1,6 @@
 ---
 title: Waldburg
 url: /waldburg/
-latitude: 47.757
-longitude: 9.712
+latitude: 47.751
+longitude: 9.74
 ---
