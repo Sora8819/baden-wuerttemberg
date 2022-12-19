@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /reutlingen/schmidt/
-shop: Wäscherei
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
-title: "boesner"
+title: "Boesner"
 url: /freiburg-im-breisgau/boesner/
 shop: Basteln
 ---
