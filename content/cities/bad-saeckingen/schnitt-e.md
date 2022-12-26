@@ -1,5 +1,5 @@
 ---
-title: "Schnitt E"
+title: "SCHNITT.e"
 url: /bad-saeckingen/schnitt-e/
 shop: Friseur
 ---
