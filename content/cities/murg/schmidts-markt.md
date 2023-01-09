@@ -1,5 +1,5 @@
 ---
-title: "Schmidt's Markt"
+title: "Schmidts Markt"
 url: /murg/schmidts-markt/
 shop: Supermarkt
 ---

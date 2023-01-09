@@ -1,5 +1,5 @@
 ---
 title: "Nudelfabrik"
 url: /kehl/nudelfabrik/
-shop: Allgemein
+shop: Bäckerei
 ---
