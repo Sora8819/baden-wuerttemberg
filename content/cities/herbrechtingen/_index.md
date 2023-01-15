@@ -1,6 +1,6 @@
 ---
 title: Herbrechtingen
 url: /herbrechtingen/
-latitude: 48.629
-longitude: 10.189
+latitude: 48.565
+longitude: 10.127
 ---

@@ -1,5 +1,5 @@
 ---
-title: "VITALIA Reformhaus"
+title: "Vitalia Reformhaus"
 url: /freiburg-im-breisgau/vitalia-reformhaus/
-shop: Bioladen
+shop: Supermarkt
 ---

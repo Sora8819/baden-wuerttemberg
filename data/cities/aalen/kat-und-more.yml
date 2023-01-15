@@ -7,5 +7,5 @@ city: Aalen
 street: "Ulmer Straße"
 housenumber: 51
 phone: ""
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-20:00; Sa 08:00-14:00"
+opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 08:00-14:00"
 website: "http://katandmore.de/"

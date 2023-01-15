@@ -1,5 +1,5 @@
 ---
 title: "ergo sum"
 url: /freiburg-im-breisgau/ergo-sum/
-shop: Elektronik
+shop: Computer
 ---
